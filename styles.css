@@ -16,7 +16,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	background: #1c2630;
+	background: linear-gradient(to bottom right, #1c2630, #041221);
 }
 
 form{
