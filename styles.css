@@ -100,6 +100,7 @@ form h2{
 
 .inputBox input[type="submit"]:hover{
 	letter-spacing: 0.35em;
+	background: #029be8;
 }
 
 form p{
